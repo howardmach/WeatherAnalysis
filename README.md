@@ -47,4 +47,4 @@ Please ensure you download the **latest version** of `GlobalWeatherRepository.cs
 
 ## License
 
-This project is
+This project is for educational and research purposes.
