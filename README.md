@@ -40,6 +40,34 @@ Please ensure you download the **latest version** of `GlobalWeatherRepository.cs
    - Perform exploratory data analysis (EDA)
    - Build and evaluate a linear regression model for "feels like" temperature
 
+## Running the Notebook in Visual Studio Code
+
+You can also run this notebook in Visual Studio Code.
+
+1. **Install Visual Studio Code**  
+   Download and install [VS Code](https://code.visualstudio.com/).
+
+2. **Install the Python Extension**  
+   In VS Code, go to the Extensions view (`Ctrl+Shift+X`) and install the official **Python** extension by Microsoft.
+
+3. **Install Jupyter Support**  
+   The Python extension will prompt you to install Jupyter support if it’s not already installed. Accept the prompt, or install the **Jupyter** extension manually.
+
+4. **Open the Project Folder**  
+   Use `File > Open Folder...` to open the `Weather Analysis` folder.
+
+5. **Open the Notebook**  
+   Double-click `weather_analysis.ipynb` in the Explorer sidebar.
+
+6. **Select a Python Interpreter**  
+   If prompted, select a Python interpreter with the required packages installed.
+
+7. **Run the Notebook**  
+   Use the "Run All" button or run cells individually using the play (`▶`) icons next to each cell.
+
+**Tip:**  
+Make sure `GlobalWeatherRepository.csv` is in the same folder as the notebook, and download the latest version before running
+
 ## Notes
 
 - The notebook expects the CSV file to be in the same directory.
