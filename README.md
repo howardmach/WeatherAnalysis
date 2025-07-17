@@ -66,7 +66,7 @@ You can also run this notebook in Visual Studio Code.
    Use the "Run All" button or run cells individually using the play (`▶`) icons next to each cell.
 
 **Tip:**  
-Make sure `GlobalWeatherRepository.csv` is in the same folder as the notebook, and download the latest version before running
+Make sure `GlobalWeatherRepository.csv` is in the same folder as the notebook, and download the latest version before running.
 
 ## Notes
 
